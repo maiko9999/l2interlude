@@ -1,0 +1,222 @@
+<?xml version='1.0' encoding='utf-8'?>
+<list>
+<!-- Heavy -->
+<item id="9300" type="Armor" name="Sacrifice Helmet">
+	<set name="default_action" val="equip" />
+	<set name="bodypart" val="head" />
+	<set name="crystal_type" val="S" />
+	<set name="crystal_count" val="715" />
+	<set name="material" val="SCALE_OF_DRAGON" />
+	<set name="weight" val="7620" />
+	<set name="price" val="14300000" />
+	<set name="is_oly_restricted" val="true" />
+	<for>
+		<add order="0x10" stat="pDef" val="103" />
+		<enchant order="0x0C" stat="pDef" val="0" />
+	</for>
+</item>
+<item id="9301" type="Armor" name="Sacrifice Breastplate">
+	<set name="default_action" val="equip" />
+	<set name="armor_type" val="HEAVY" />
+	<set name="bodypart" val="chest" />
+	<set name="crystal_type" val="S" />
+	<set name="crystal_count" val="715" />
+	<set name="material" val="SCALE_OF_DRAGON" />
+	<set name="weight" val="7620" />
+	<set name="price" val="14300000" />
+	<set name="is_oly_restricted" val="true" />
+	<for>
+		<add order="0x10" stat="pDef" val="204" />
+		<enchant order="0x0C" stat="pDef" val="0" />
+	</for>
+</item>
+<item id="9302" type="Armor" name="Sacrifice Gaiters">
+	<set name="default_action" val="equip" />
+	<set name="armor_type" val="HEAVY" />
+	<set name="bodypart" val="legs" />
+	<set name="crystal_type" val="S" />
+	<set name="crystal_count" val="715" />
+	<set name="material" val="SCALE_OF_DRAGON" />
+	<set name="weight" val="7620" />
+	<set name="price" val="14300000" />
+	<set name="is_oly_restricted" val="true" />
+	<for>
+		<add order="0x10" stat="pDef" val="160" />
+		<enchant order="0x0C" stat="pDef" val="0" />
+	</for>
+</item>
+<item id="9303" type="Armor" name="Sacrifice Gauntlets">
+	<set name="default_action" val="equip" />
+	<set name="bodypart" val="gloves" />
+	<set name="crystal_type" val="S" />
+	<set name="crystal_count" val="715" />
+	<set name="material" val="SCALE_OF_DRAGON" />
+	<set name="weight" val="7620" />
+	<set name="price" val="14300000" />
+	<set name="is_oly_restricted" val="true" />
+	<for>
+		<add order="0x10" stat="pDef" val="75" />
+		<enchant order="0x0C" stat="pDef" val="0" />
+	</for>
+</item>
+<item id="9304" type="Armor" name="Sacrifice Boots">
+	<set name="default_action" val="equip" />
+	<set name="bodypart" val="feet" />
+	<set name="crystal_type" val="S" />
+	<set name="crystal_count" val="715" />
+	<set name="material" val="SCALE_OF_DRAGON" />
+	<set name="weight" val="7620" />
+	<set name="price" val="14300000" />
+	<set name="is_oly_restricted" val="true" />
+	<for>
+		<add order="0x10" stat="pDef" val="75" />
+		<enchant order="0x0C" stat="pDef" val="0" />
+	</for>
+</item>
+<!-- Light -->
+<item id="9305" type="Armor" name="Sacrifice Leather Helmet">
+	<set name="default_action" val="equip" />
+	<set name="bodypart" val="head" />
+	<set name="crystal_type" val="S" />
+	<set name="crystal_count" val="715" />
+	<set name="material" val="BONE" />
+	<set name="weight" val="7620" />
+	<set name="price" val="14300000" />
+	<set name="is_oly_restricted" val="true" />
+	<for>
+		<add order="0x10" stat="pDef" val="83" />
+		<enchant order="0x0C" stat="pDef" val="0" />
+	</for>
+</item>
+<item id="9306" type="Armor" name="Sacrifice Leather Armor">
+	<set name="default_action" val="equip" />
+	<set name="armor_type" val="LIGHT" />
+	<set name="bodypart" val="chest" />
+	<set name="crystal_type" val="S" />
+	<set name="crystal_count" val="715" />
+	<set name="material" val="SCALE_OF_DRAGON" />
+	<set name="weight" val="7620" />
+	<set name="price" val="14300000" />
+	<set name="is_oly_restricted" val="true" />
+	<for>
+		<add order="0x10" stat="pDef" val="186" />
+		<enchant order="0x0C" stat="pDef" val="0" />
+	</for>
+</item>
+<item id="9307" type="Armor" name="Sacrifice Leather Pants">
+	<set name="default_action" val="equip" />
+	<set name="armor_type" val="LIGHT" />
+	<set name="bodypart" val="legs" />
+	<set name="crystal_type" val="S" />
+	<set name="crystal_count" val="715" />
+	<set name="material" val="SCALE_OF_DRAGON" />
+	<set name="weight" val="7620" />
+	<set name="price" val="14300000" />
+	<set name="is_oly_restricted" val="true" />
+	<for>
+		<add order="0x10" stat="pDef" val="100" />
+		<enchant order="0x0C" stat="pDef" val="0" />
+	</for>
+</item>
+<item id="9308" type="Armor" name="Sacrifice Leather Gloves">
+	<set name="default_action" val="equip" />
+	<set name="bodypart" val="gloves" />
+	<set name="crystal_type" val="S" />
+	<set name="crystal_count" val="715" />
+	<set name="material" val="SCALE_OF_DRAGON" />
+	<set name="weight" val="7620" />
+	<set name="price" val="14300000" />
+	<set name="is_oly_restricted" val="true" />
+	<for>
+		<add order="0x10" stat="pDef" val="75" />
+		<enchant order="0x0C" stat="pDef" val="0" />
+	</for>
+</item>
+<item id="9309" type="Armor" name="Sacrifice Leather Boots">
+	<set name="default_action" val="equip" />
+	<set name="bodypart" val="feet" />
+	<set name="crystal_type" val="S" />
+	<set name="crystal_count" val="715" />
+	<set name="material" val="SCALE_OF_DRAGON" />
+	<set name="weight" val="7620" />
+	<set name="price" val="14300000" />
+	<set name="is_oly_restricted" val="true" />
+	<for>
+		<add order="0x10" stat="pDef" val="75" />
+		<enchant order="0x0C" stat="pDef" val="0" />
+	</for>	
+</item>
+<!-- Robe -->
+<item id="9310" type="Armor" name="Sacrifice Circlet">
+	<set name="default_action" val="equip" />
+	<set name="bodypart" val="head" />
+	<set name="crystal_type" val="S" />
+	<set name="crystal_count" val="715" />
+	<set name="material" val="SCALE_OF_DRAGON" />
+	<set name="weight" val="7620" />
+	<set name="price" val="14300000" />
+	<set name="is_oly_restricted" val="true" />
+	<for>
+		<add order="0x10" stat="pDef" val="103" />
+		<enchant order="0x0C" stat="pDef" val="0" />
+	</for>	
+</item>
+<item id="9311" type="Armor" name="Sacrifice Robe">
+	<set name="default_action" val="equip" />
+	<set name="armor_type" val="MAGIC" />
+	<set name="bodypart" val="chest" />
+	<set name="crystal_type" val="S" />
+	<set name="crystal_count" val="715" />
+	<set name="material" val="SCALE_OF_DRAGON" />
+	<set name="weight" val="7620" />
+	<set name="price" val="14300000" />
+	<set name="is_oly_restricted" val="true" />
+	<for>
+		<add order="0x10" stat="pDef" val="107" />
+		<enchant order="0x0C" stat="pDef" val="0" />
+	</for>	
+</item>
+<item id="9312" type="Armor" name="Sacrifice Stockings">
+	<set name="default_action" val="equip" />
+	<set name="armor_type" val="MAGIC" />
+	<set name="bodypart" val="legs" />
+	<set name="crystal_type" val="S" />
+	<set name="crystal_count" val="715" />
+	<set name="material" val="SCALE_OF_DRAGON" />
+	<set name="weight" val="7620" />
+	<set name="price" val="14300000" />
+	<set name="is_oly_restricted" val="true" />
+	<for>
+		<add order="0x10" stat="pDef" val="100" />
+		<enchant order="0x0C" stat="pDef" val="0" />
+	</for>	
+</item>
+<item id="9313" type="Armor" name="Sacrifice Gloves">
+	<set name="default_action" val="equip" />
+	<set name="bodypart" val="gloves" />
+	<set name="crystal_type" val="S" />
+	<set name="crystal_count" val="715" />
+	<set name="material" val="SCALE_OF_DRAGON" />
+	<set name="weight" val="7620" />
+	<set name="price" val="14300000" />
+	<set name="is_oly_restricted" val="true" />
+	<for>
+		<add order="0x10" stat="pDef" val="75" />
+		<enchant order="0x0C" stat="pDef" val="0" />
+	</for>	
+</item>
+<item id="9314" type="Armor" name="Sacrifice Boots">
+	<set name="default_action" val="equip" />
+	<set name="bodypart" val="feet" />
+	<set name="crystal_type" val="S" />
+	<set name="crystal_count" val="715" />
+	<set name="material" val="SCALE_OF_DRAGON" />
+	<set name="weight" val="7620" />
+	<set name="price" val="14300000" />
+	<set name="is_oly_restricted" val="true" />
+	<for>
+		<add order="0x10" stat="pDef" val="75" />
+		<enchant order="0x0C" stat="pDef" val="0" />
+	</for>	
+</item>
+</list>

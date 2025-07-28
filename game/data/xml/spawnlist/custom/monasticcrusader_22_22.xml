@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+	<territory name="monasticcrusader_268494105" minZ="-3768" maxZ="-3752">
+		<node x="72923" y="142636" />
+		<node x="72823" y="142636" />
+		<node x="72823" y="142536" />
+		<node x="72923" y="142536" />
+	</territory>
+	<npcmaker name="monasticcrusader_2684941051" territory="monasticcrusader_268494105" maximumNpcs="1">
+		<ai type="default_maker"/>
+		<npc id="22123" pos="72873;142586;-3768;20831" total="1" respawn="90sec" respawnRand="15sec" /> <!-- Monastic Crusader -->
+	</npcmaker>
+	<territory name="monasticcrusader_268494106" minZ="-3768" maxZ="-3752">
+		<node x="73041" y="142882" />
+		<node x="72941" y="142882" />
+		<node x="72941" y="142782" />
+		<node x="73041" y="142782" />
+	</territory>
+	<npcmaker name="monasticcrusader_2684941061" territory="monasticcrusader_268494106" maximumNpcs="1">
+		<ai type="default_maker"/>
+		<npc id="22123" pos="72991;142832;-3768;11671" total="1" respawn="90sec" respawnRand="15sec" /> <!-- Monastic Crusader -->
+	</npcmaker>
+</list>

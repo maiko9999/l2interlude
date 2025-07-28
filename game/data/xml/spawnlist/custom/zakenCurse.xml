@@ -1,0 +1,938 @@
+<?xml version="1.0" encoding="utf-8"?>
+<list>
+	<territory name="lyonn03_npc1814_zc01" minZ="-324" maxZ="-124">
+		<node x="-44420" y="-113780"/>
+		<node x="-44220" y="-113780"/>
+		<node x="-44220" y="-113580"/>
+		<node x="-44420" y="-113580"/>
+	</territory>
+	<npcmaker name="lyonn03_npc1814_zc01" territory="lyonn03_npc1814_zc01" event="zaken_curse" maximumNpcs="1">
+		<ai type="default_maker"/>
+		<npc id="32131" pos="-44337;-113669;-224;0" total="1" respawn="1min">
+			<ai>
+				<set name="EventItem" val="9142"/>
+				<set name="EventItemReq" val="50"/>
+			</ai>
+		</npc>
+	</npcmaker>
+	<!--	-->
+	<territory name="lyonn03_npc1814_zc02" minZ="-332" maxZ="-132">
+		<node x="-44724" y="-115492"/>
+		<node x="-44524" y="-115492"/>
+		<node x="-44524" y="-115292"/>
+		<node x="-44724" y="-115292"/>
+	</territory>
+	<npcmaker name="lyonn03_npc1814_zc02" territory="lyonn03_npc1814_zc02" event="zaken_curse" maximumNpcs="1">
+		<ai type="default_maker"/>
+		<npc id="32131" pos="-44628;-115409;-240;22500" total="1" respawn="1min">
+			<ai>
+				<set name="EventItem" val="9142"/>
+				<set name="EventItemReq" val="50"/>
+			</ai>
+		</npc>
+	</npcmaker>
+	<!--	-->
+	<territory name="gludio08_npc1921_zc01" minZ="-3216" maxZ="-3016">
+		<node x="-13156" y="122684"/>
+		<node x="-12956" y="122684"/>
+		<node x="-12956" y="122884"/>
+		<node x="-13156" y="122884"/>
+	</territory>
+	<npcmaker name="gludio08_npc1921_zc01" territory="gludio08_npc1921_zc01" event="zaken_curse" maximumNpcs="1">
+		<ai type="default_maker"/>
+		<npc id="32131" pos="-13073;122801;-3117;0" total="1" respawn="1min">
+			<ai>
+				<set name="EventItem" val="9142"/>
+				<set name="EventItemReq" val="50"/>
+			</ai>
+		</npc>
+	</npcmaker>
+	<!--	-->
+	<territory name="gludio08_npc1921_zc02" minZ="-3072" maxZ="-2872">
+		<node x="-14052" y="121836"/>
+		<node x="-13852" y="121836"/>
+		<node x="-13852" y="122036"/>
+		<node x="-14052" y="122036"/>
+	</territory>
+	<npcmaker name="gludio08_npc1921_zc02" territory="gludio08_npc1921_zc02" event="zaken_curse" maximumNpcs="1">
+		<ai type="default_maker"/>
+		<npc id="32131" pos="-13949;121934;-2988;32768" total="1" respawn="1min">
+			<ai>
+				<set name="EventItem" val="9142"/>
+				<set name="EventItemReq" val="50"/>
+			</ai>
+		</npc>
+	</npcmaker>
+	<!--	-->
+	<territory name="gludio08_npc1921_zc03" minZ="-3196" maxZ="-2996">
+		<node x="-14916" y="123596"/>
+		<node x="-14716" y="123596"/>
+		<node x="-14716" y="123796"/>
+		<node x="-14916" y="123796"/>
+	</territory>
+	<npcmaker name="gludio08_npc1921_zc03" territory="gludio08_npc1921_zc03" event="zaken_curse" maximumNpcs="1">
+		<ai type="default_maker"/>
+		<npc id="32131" pos="-14822;123708;-3117;8192" total="1" respawn="1min">
+			<ai>
+				<set name="EventItem" val="9142"/>
+				<set name="EventItemReq" val="50"/>
+			</ai>
+		</npc>
+	</npcmaker>
+	<!--	-->
+	<territory name="oren09_npc2018_zc01" minZ="-4692" maxZ="-4492">
+		<node x="11180" y="15564"/>
+		<node x="11380" y="15564"/>
+		<node x="11380" y="15764"/>
+		<node x="11180" y="15764"/>
+	</territory>
+	<npcmaker name="oren09_npc2018_zc01" territory="oren09_npc2018_zc01" event="zaken_curse" maximumNpcs="1">
+		<ai type="default_maker"/>
+		<npc id="32131" pos="11281;15652;-4584;25000" total="1" respawn="1min">
+			<ai>
+				<set name="EventItem" val="9142"/>
+				<set name="EventItemReq" val="50"/>
+			</ai>
+		</npc>
+	</npcmaker>
+	<!--	-->
+	<territory name="oren09_npc2018_zc02" minZ="-4604" maxZ="-4284">
+		<node x="11510" y="17770"/>
+		<node x="11710" y="17770"/>
+		<node x="11710" y="17970"/>
+		<node x="11510" y="17970"/>
+	</territory>
+	<npcmaker name="oren09_npc2018_zc02" territory="oren09_npc2018_zc02" event="zaken_curse" maximumNpcs="1">
+		<ai type="default_maker"/>
+		<npc id="32131" pos="11610;17870;-4584;49152" total="1" respawn="1min">
+			<ai>
+				<set name="EventItem" val="9142"/>
+				<set name="EventItemReq" val="50"/>
+			</ai>
+		</npc>
+	</npcmaker>
+	<!--	-->
+	<territory name="dion09_npc2022_zc01" minZ="-3160" maxZ="-2960">
+		<node x="18076" y="145064"/>
+		<node x="18276" y="145064"/>
+		<node x="18276" y="145264"/>
+		<node x="18076" y="145264"/>
+	</territory>
+	<npcmaker name="dion09_npc2022_zc01" territory="dion09_npc2022_zc01" event="zaken_curse" maximumNpcs="1">
+		<ai type="default_maker"/>
+		<npc id="32131" pos="18178;145149;-3054;7400" total="1" respawn="1min">
+			<ai>
+				<set name="EventItem" val="9142"/>
+				<set name="EventItemReq" val="50"/>
+			</ai>
+		</npc>
+	</npcmaker>
+	<!--	-->
+	<territory name="dion09_npc2022_zc02" minZ="-3208" maxZ="-3008">
+		<node x="19100" y="144284"/>
+		<node x="19300" y="144284"/>
+		<node x="19300" y="144484"/>
+		<node x="19100" y="144484"/>
+	</territory>
+	<npcmaker name="dion09_npc2022_zc02" territory="dion09_npc2022_zc02" event="zaken_curse" maximumNpcs="1">
+		<ai type="default_maker"/>
+		<npc id="32131" pos="19208;144380;-3097;32768" total="1" respawn="1min">
+			<ai>
+				<set name="EventItem" val="9142"/>
+				<set name="EventItemReq" val="50"/>
+			</ai>
+		</npc>
+	</npcmaker>
+	<!--	-->
+	<territory name="dion09_npc2022_zc03" minZ="-3192" maxZ="-2992">
+		<node x="19404" y="145692"/>
+		<node x="19604" y="145692"/>
+		<node x="19604" y="145892"/>
+		<node x="19404" y="145892"/>
+	</territory>
+	<npcmaker name="dion09_npc2022_zc03" territory="dion09_npc2022_zc03" event="zaken_curse" maximumNpcs="1">
+		<ai type="default_maker"/>
+		<npc id="32131" pos="19508;145775;-3086;48000" total="1" respawn="1min">
+			<ai>
+				<set name="EventItem" val="9142"/>
+				<set name="EventItemReq" val="50"/>
+			</ai>
+		</npc>
+	</npcmaker>
+	<!--	-->
+	<territory name="dion10_npc2023_zc01" minZ="-3616" maxZ="-3416">
+		<node x="17292" y="170140"/>
+		<node x="17492" y="170140"/>
+		<node x="17492" y="170340"/>
+		<node x="17292" y="170340"/>
+	</territory>
+	<npcmaker name="dion10_npc2023_zc01" territory="dion10_npc2023_zc01" event="zaken_curse" maximumNpcs="1">
+		<ai type="default_maker"/>
+		<npc id="32131" pos="17396;170259;-3507;30000" total="1" respawn="1min">
+			<ai>
+				<set name="EventItem" val="9142"/>
+				<set name="EventItemReq" val="50"/>
+			</ai>
+		</npc>
+	</npcmaker>
+	<!--	-->
+	<territory name="oren04_npc2119_zc01" minZ="-3104" maxZ="-2904">
+		<node x="44028" y="50684"/>
+		<node x="44228" y="50684"/>
+		<node x="44228" y="50884"/>
+		<node x="44028" y="50884"/>
+	</territory>
+	<npcmaker name="oren04_npc2119_zc01" territory="oren04_npc2119_zc01" event="zaken_curse" maximumNpcs="1">
+		<ai type="default_maker"/>
+		<npc id="32131" pos="44122;50784;-3059;57344" total="1" respawn="1min">
+			<ai>
+				<set name="EventItem" val="9142"/>
+				<set name="EventItemReq" val="50"/>
+			</ai>
+		</npc>
+	</npcmaker>
+	<!--	-->
+	<territory name="oren17_npc2219_zc01" minZ="-1656" maxZ="-1456">
+		<node x="79724" y="55452"/>
+		<node x="79924" y="55452"/>
+		<node x="79924" y="55652"/>
+		<node x="79724" y="55652"/>
+	</territory>
+	<npcmaker name="oren17_npc2219_zc01" territory="oren17_npc2219_zc01" event="zaken_curse" maximumNpcs="1">
+		<ai type="default_maker"/>
+		<npc id="32131" pos="79806;55570;-1560;0" total="1" respawn="1min">
+			<ai>
+				<set name="EventItem" val="9142"/>
+				<set name="EventItemReq" val="50"/>
+			</ai>
+		</npc>
+	</npcmaker>
+	<!--	-->
+	<territory name="oren17_npc2219_zc02" minZ="-1628" maxZ="-1428">
+		<node x="83228" y="55724"/>
+		<node x="83428" y="55724"/>
+		<node x="83428" y="55924"/>
+		<node x="83228" y="55924"/>
+	</territory>
+	<npcmaker name="oren17_npc2219_zc02" territory="oren17_npc2219_zc02" event="zaken_curse" maximumNpcs="1">
+		<ai type="default_maker"/>
+		<npc id="32131" pos="83328;55824;-1525;32768" total="1" respawn="1min">
+			<ai>
+				<set name="EventItem" val="9142"/>
+				<set name="EventItemReq" val="50"/>
+			</ai>
+		</npc>
+	</npcmaker>
+	<!--	-->
+	<territory name="oren17_npc2219_zc03" minZ="-1620" maxZ="-1420">
+		<node x="80876" y="54404"/>
+		<node x="81076" y="54404"/>
+		<node x="81076" y="54604"/>
+		<node x="80876" y="54604"/>
+	</territory>
+	<npcmaker name="oren17_npc2219_zc03" territory="oren17_npc2219_zc03" event="zaken_curse" maximumNpcs="1">
+		<ai type="default_maker"/>
+		<npc id="32131" pos="80986;54504;-1525;32768" total="1" respawn="1min">
+			<ai>
+				<set name="EventItem" val="9142"/>
+				<set name="EventItemReq" val="50"/>
+			</ai>
+		</npc>
+	</npcmaker>
+	<!--	-->
+	<territory name="giran11_npc2222_zc01" minZ="-3492" maxZ="-3292">
+		<node x="83228" y="149052"/>
+		<node x="83428" y="149052"/>
+		<node x="83428" y="149252"/>
+		<node x="83228" y="149252"/>
+	</territory>
+	<npcmaker name="giran11_npc2222_zc01" territory="giran11_npc2222_zc01" event="zaken_curse" maximumNpcs="1">
+		<ai type="default_maker"/>
+		<npc id="32131" pos="83332;149160;-3405;49152" total="1" respawn="1min">
+			<ai>
+				<set name="EventItem" val="9142"/>
+				<set name="EventItemReq" val="50"/>
+			</ai>
+		</npc>
+	</npcmaker>
+	<!--	-->
+	<territory name="giran11_npc2222_zc02" minZ="-3560" maxZ="-3360">
+		<node x="82188" y="148476"/>
+		<node x="82388" y="148476"/>
+		<node x="82388" y="148676"/>
+		<node x="82188" y="148676"/>
+	</territory>
+	<npcmaker name="giran11_npc2222_zc02" territory="giran11_npc2222_zc02" event="zaken_curse" maximumNpcs="1">
+		<ai type="default_maker"/>
+		<npc id="32131" pos="82277;148598;-3467;0" total="1" respawn="1min">
+			<ai>
+				<set name="EventItem" val="9142"/>
+				<set name="EventItemReq" val="50"/>
+			</ai>
+		</npc>
+	</npcmaker>
+	<!--	-->
+	<territory name="giran11_npc2222_zc03" minZ="-3580" maxZ="-3380">
+		<node x="81484" y="148524"/>
+		<node x="81684" y="148524"/>
+		<node x="81684" y="148724"/>
+		<node x="81484" y="148724"/>
+	</territory>
+	<npcmaker name="giran11_npc2222_zc03" territory="giran11_npc2222_zc03" event="zaken_curse" maximumNpcs="1">
+		<ai type="default_maker"/>
+		<npc id="32131" pos="81621;148725;-3467;32768" total="1" respawn="1min">
+			<ai>
+				<set name="EventItem" val="9142"/>
+				<set name="EventItemReq" val="50"/>
+			</ai>
+		</npc>
+	</npcmaker>
+	<!--	-->
+	<territory name="giran11_npc2222_zc04" minZ="-3664" maxZ="-3464">
+		<node x="81596" y="145560"/>
+		<node x="81796" y="145560"/>
+		<node x="81796" y="145760"/>
+		<node x="81596" y="145760"/>
+	</territory>
+	<npcmaker name="giran11_npc2222_zc04" territory="giran11_npc2222_zc04" event="zaken_curse" maximumNpcs="1">
+		<ai type="default_maker"/>
+		<npc id="32131" pos="81680;145656;-3533;32768" total="1" respawn="1min">
+			<ai>
+				<set name="EventItem" val="9142"/>
+				<set name="EventItemReq" val="50"/>
+			</ai>
+		</npc>
+	</npcmaker>
+	<!--	-->
+	<territory name="schuttgart03_npc2312_zc01" minZ="-928" maxZ="-728">
+		<node x="114636" y="-178804"/>
+		<node x="114836" y="-178804"/>
+		<node x="114836" y="-178604"/>
+		<node x="114636" y="-178604"/>
+	</territory>
+	<npcmaker name="schuttgart03_npc2312_zc01" territory="schuttgart03_npc2312_zc01" event="zaken_curse" maximumNpcs="1">
+		<ai type="default_maker"/>
+		<npc id="32131" pos="114733;-178691;-821;0" total="1" respawn="1min">
+			<ai>
+				<set name="EventItem" val="9142"/>
+				<set name="EventItemReq" val="50"/>
+			</ai>
+		</npc>
+	</npcmaker>
+	<!--	-->
+	<territory name="schuttgart03_npc2312_zc02" minZ="-1552" maxZ="-1352">
+		<node x="115628" y="-182452"/>
+		<node x="115828" y="-182452"/>
+		<node x="115828" y="-182252"/>
+		<node x="115628" y="-182252"/>
+	</territory>
+	<npcmaker name="schuttgart03_npc2312_zc02" territory="schuttgart03_npc2312_zc02" event="zaken_curse" maximumNpcs="1">
+		<ai type="default_maker"/>
+		<npc id="32131" pos="115708;-182362;-1449;0" total="1" respawn="1min">
+			<ai>
+				<set name="EventItem" val="9142"/>
+				<set name="EventItemReq" val="50"/>
+			</ai>
+		</npc>
+	</npcmaker>
+	<!--	-->
+	<territory name="gludio06_npc1722_zc01" minZ="-3088" maxZ="-2888">
+		<node x="-80868" y="151020"/>
+		<node x="-80668" y="151020"/>
+		<node x="-80668" y="151220"/>
+		<node x="-80868" y="151220"/>
+	</territory>
+	<npcmaker name="gludio06_npc1722_zc01" territory="gludio06_npc1722_zc01" event="zaken_curse" maximumNpcs="1">
+		<ai type="default_maker"/>
+		<npc id="32131" pos="-80762;151118;-3043;28672" total="1" respawn="1min">
+			<ai>
+				<set name="EventItem" val="9142"/>
+				<set name="EventItemReq" val="50"/>
+			</ai>
+		</npc>
+	</npcmaker>
+	<!--	-->
+	<territory name="gludio06_npc1722_zc02" minZ="-3204" maxZ="-3004">
+		<node x="-84132" y="150060"/>
+		<node x="-83932" y="150060"/>
+		<node x="-83932" y="150260"/>
+		<node x="-84132" y="150260"/>
+	</territory>
+	<npcmaker name="gludio06_npc1722_zc02" territory="gludio06_npc1722_zc02" event="zaken_curse" maximumNpcs="1">
+		<ai type="default_maker"/>
+		<npc id="32131" pos="-84049;150176;-3129;4096" total="1" respawn="1min">
+			<ai>
+				<set name="EventItem" val="9142"/>
+				<set name="EventItemReq" val="50"/>
+			</ai>
+		</npc>
+	</npcmaker>
+	<!--	-->
+	<territory name="gludio06_npc1722_zc03" minZ="-3200" maxZ="-3000">
+		<node x="-82724" y="151548"/>
+		<node x="-82524" y="151548"/>
+		<node x="-82524" y="151748"/>
+		<node x="-82724" y="151748"/>
+	</territory>
+	<npcmaker name="gludio06_npc1722_zc03" territory="gludio06_npc1722_zc03" event="zaken_curse" maximumNpcs="1">
+		<ai type="default_maker"/>
+		<npc id="32131" pos="-82623;151666;-3129;49152" total="1" respawn="1min">
+			<ai>
+				<set name="EventItem" val="9142"/>
+				<set name="EventItemReq" val="50"/>
+			</ai>
+		</npc>
+	</npcmaker>
+	<!--	-->
+	<territory name="aden14_npc2320_zc01" minZ="-2792" maxZ="-2592">
+		<node x="117388" y="76540"/>
+		<node x="117588" y="76540"/>
+		<node x="117588" y="76740"/>
+		<node x="117388" y="76740"/>
+	</territory>
+	<npcmaker name="aden14_npc2320_zc01" territory="aden14_npc2320_zc01" event="zaken_curse" maximumNpcs="1">
+		<ai type="default_maker"/>
+		<npc id="32131" pos="117498;76630;-2695;38000" total="1" respawn="1min">
+			<ai>
+				<set name="EventItem" val="9142"/>
+				<set name="EventItemReq" val="50"/>
+			</ai>
+		</npc>
+	</npcmaker>
+	<!--	-->
+	<territory name="aden14_npc2320_zc02" minZ="-2828" maxZ="-2628">
+		<node x="115820" y="76348"/>
+		<node x="116020" y="76348"/>
+		<node x="116020" y="76548"/>
+		<node x="115820" y="76548"/>
+	</territory>
+	<npcmaker name="aden14_npc2320_zc02" territory="aden14_npc2320_zc02" event="zaken_curse" maximumNpcs="1">
+		<ai type="default_maker"/>
+		<npc id="32131" pos="115914;76449;-2711;59000" total="1" respawn="1min">
+			<ai>
+				<set name="EventItem" val="9142"/>
+				<set name="EventItemReq" val="50"/>
+			</ai>
+		</npc>
+	</npcmaker>
+	<!--	-->
+	<territory name="aden14_npc2320_zc03" minZ="-2392" maxZ="-2192">
+		<node x="119420" y="76880"/>
+		<node x="119620" y="76880"/>
+		<node x="119620" y="77080"/>
+		<node x="119420" y="77080"/>
+	</territory>
+	<npcmaker name="aden14_npc2320_zc03" territory="aden14_npc2320_zc03" event="zaken_curse" maximumNpcs="1">
+		<ai type="default_maker"/>
+		<npc id="32131" pos="119536;76988;-2275;40960" total="1" respawn="1min">
+			<ai>
+				<set name="EventItem" val="9142"/>
+				<set name="EventItemReq" val="50"/>
+			</ai>
+		</npc>
+	</npcmaker>
+	<!--	-->
+	<territory name="gludio25_npc1725_zc01" minZ="-3817" maxZ="-3617">
+		<node x="-84628" y="242876"/>
+		<node x="-84428" y="242876"/>
+		<node x="-84428" y="243076"/>
+		<node x="-84628" y="243076"/>
+	</territory>
+	<npcmaker name="gludio25_npc1725_zc01" territory="gludio25_npc1725_zc01" event="zaken_curse" maximumNpcs="1">
+		<ai type="default_maker"/>
+		<npc id="32131" pos="-84516;242971;-3730;34000" total="1" respawn="1min">
+			<ai>
+				<set name="EventItem" val="9142"/>
+				<set name="EventItemReq" val="50"/>
+			</ai>
+		</npc>
+	</npcmaker>
+	<!--	-->
+	<territory name="gludio25_npc1725_zc02" minZ="-3851" maxZ="-3651">
+		<node x="-86100" y="243100"/>
+		<node x="-85900" y="243100"/>
+		<node x="-85900" y="243300"/>
+		<node x="-86100" y="243300"/>
+	</territory>
+	<npcmaker name="gludio25_npc1725_zc02" territory="gludio25_npc1725_zc02" event="zaken_curse" maximumNpcs="1">
+		<ai type="default_maker"/>
+		<npc id="32131" pos="-86003;243205;-3730;60000" total="1" respawn="1min">
+			<ai>
+				<set name="EventItem" val="9142"/>
+				<set name="EventItemReq" val="50"/>
+			</ai>
+		</npc>
+	</npcmaker>
+	<!--	-->
+	<territory name="aden13_npc2418_zc01" minZ="-2248" maxZ="-2048">
+		<node x="146988" y="27156"/>
+		<node x="147188" y="27156"/>
+		<node x="147188" y="27356"/>
+		<node x="146988" y="27356"/>
+	</territory>
+	<npcmaker name="aden13_npc2418_zc01" territory="aden13_npc2418_zc01" event="zaken_curse" maximumNpcs="1">
+		<ai type="default_maker"/>
+		<npc id="32131" pos="147120;27312;-2192;40960" total="1" respawn="1min">
+			<ai>
+				<set name="EventItem" val="9142"/>
+				<set name="EventItemReq" val="50"/>
+			</ai>
+		</npc>
+	</npcmaker>
+	<!--	-->
+	<territory name="aden13_npc2418_zc02" minZ="-2056" maxZ="-1856">
+		<node x="147860" y="25644"/>
+		<node x="148060" y="25644"/>
+		<node x="148060" y="25844"/>
+		<node x="147860" y="25844"/>
+	</territory>
+	<npcmaker name="aden13_npc2418_zc02" territory="aden13_npc2418_zc02" event="zaken_curse" maximumNpcs="1">
+		<ai type="default_maker"/>
+		<npc id="32131" pos="147920;25664;-2000;16384" total="1" respawn="1min">
+			<ai>
+				<set name="EventItem" val="9142"/>
+				<set name="EventItemReq" val="50"/>
+			</ai>
+		</npc>
+	</npcmaker>
+	<!--	-->
+	<territory name="innadril09_npc2324_zc01" minZ="-3584" maxZ="-3384">
+		<node x="111660" y="221036"/>
+		<node x="111860" y="221036"/>
+		<node x="111860" y="221236"/>
+		<node x="111660" y="221236"/>
+	</territory>
+	<npcmaker name="innadril09_npc2324_zc01" territory="innadril09_npc2324_zc01" event="zaken_curse" maximumNpcs="1">
+		<ai type="default_maker"/>
+		<npc id="32131" pos="111776;221104;-3543;16384" total="1" respawn="1min">
+			<ai>
+				<set name="EventItem" val="9142"/>
+				<set name="EventItemReq" val="50"/>
+			</ai>
+		</npc>
+	</npcmaker>
+	<!--	-->
+	<territory name="innadril09_npc2324_zc02" minZ="-3720" maxZ="-3520">
+		<node x="107868" y="217996"/>
+		<node x="108068" y="217996"/>
+		<node x="108068" y="218196"/>
+		<node x="107868" y="218196"/>
+	</territory>
+	<npcmaker name="innadril09_npc2324_zc02" territory="innadril09_npc2324_zc02" event="zaken_curse" maximumNpcs="1">
+		<ai type="default_maker"/>
+		<npc id="32131" pos="107904;218096;-3675;0" total="1" respawn="1min">
+			<ai>
+				<set name="EventItem" val="9142"/>
+				<set name="EventItemReq" val="50"/>
+			</ai>
+		</npc>
+	</npcmaker>
+	<!--	-->
+	<territory name="innadril09_npc2324_zc03" minZ="-3688" maxZ="-3488">
+		<node x="114780" y="219868"/>
+		<node x="114980" y="219868"/>
+		<node x="114980" y="220068"/>
+		<node x="114780" y="220068"/>
+	</territory>
+	<npcmaker name="innadril09_npc2324_zc03" territory="innadril09_npc2324_zc03" event="zaken_curse" maximumNpcs="1">
+		<ai type="default_maker"/>
+		<npc id="32131" pos="114920;220020;-3632;32768" total="1" respawn="1min">
+			<ai>
+				<set name="EventItem" val="9142"/>
+				<set name="EventItemReq" val="50"/>
+			</ai>
+		</npc>
+	</npcmaker>
+	<!--	-->
+	<territory name="godard02_npc2416_zc01" minZ="-3020" maxZ="-2820">
+		<node x="147804" y="-58164"/>
+		<node x="148004" y="-58164"/>
+		<node x="148004" y="-57964"/>
+		<node x="147804" y="-57964"/>
+	</territory>
+	<npcmaker name="godard02_npc2416_zc01" territory="godard02_npc2416_zc01" event="zaken_curse" maximumNpcs="1">
+		<ai type="default_maker"/>
+		<npc id="32131" pos="147888;-58048;-2979;49000" total="1" respawn="1min">
+			<ai>
+				<set name="EventItem" val="9142"/>
+				<set name="EventItemReq" val="50"/>
+			</ai>
+		</npc>
+	</npcmaker>
+	<!--	-->
+	<territory name="godard02_npc2416_zc02" minZ="-2800" maxZ="-2600">
+		<node x="147330" y="-56451"/>
+		<node x="147292" y="-56526"/>
+		<node x="147223" y="-56481"/>
+		<node x="147256" y="-56426"/>
+	</territory>
+	<npcmaker name="godard02_npc2416_zc02" territory="godard02_npc2416_zc02" event="zaken_curse" maximumNpcs="1">
+		<ai type="default_maker"/>
+		<npc id="32131" pos="147285;-56461;-2776;11500" total="1" respawn="1min">
+			<ai>
+				<set name="EventItem" val="9142"/>
+				<set name="EventItemReq" val="50"/>
+			</ai>
+		</npc>
+	</npcmaker>
+	<!--	-->
+	<territory name="rune02_npc2116_zc01" minZ="-864" maxZ="-664">
+		<node x="44076" y="-48788"/>
+		<node x="44276" y="-48788"/>
+		<node x="44276" y="-48588"/>
+		<node x="44076" y="-48588"/>
+	</territory>
+	<npcmaker name="rune02_npc2116_zc01" territory="rune02_npc2116_zc01" event="zaken_curse" maximumNpcs="1">
+		<ai type="default_maker"/>
+		<npc id="32131" pos="44176;-48732;-800;33000" total="1" respawn="1min">
+			<ai>
+				<set name="EventItem" val="9142"/>
+				<set name="EventItemReq" val="50"/>
+			</ai>
+		</npc>
+	</npcmaker>
+	<!--	-->
+	<territory name="rune02_npc2116_zc02" minZ="-864" maxZ="-664">
+		<node x="44239" y="-47585"/>
+		<node x="44250" y="-47706"/>
+		<node x="44376" y="-47689"/>
+		<node x="44377" y="-47587"/>
+	</territory>
+	<npcmaker name="rune02_npc2116_zc02" territory="rune02_npc2116_zc02" event="zaken_curse" maximumNpcs="1">
+		<ai type="default_maker"/>
+		<npc id="32131" pos="44294;-47642;-792;50000" total="1" respawn="1min">
+			<ai>
+				<set name="EventItem" val="9142"/>
+				<set name="EventItemReq" val="50"/>
+			</ai>
+		</npc>
+	</npcmaker>
+	<!--	-->
+	<territory name="schuttgart_npc2213_zc01" minZ="-1556" maxZ="-1236">
+		<node x="89630" y="-140910"/>
+		<node x="89830" y="-140910"/>
+		<node x="89830" y="-140710"/>
+		<node x="89630" y="-140710"/>
+	</territory>
+	<npcmaker name="schuttgart_npc2213_zc01" territory="schuttgart_npc2213_zc01" event="zaken_curse" maximumNpcs="1">
+		<ai type="default_maker"/>
+		<npc id="32131" pos="89730;-140810;-1536;32768" total="1" respawn="1min">
+			<ai>
+				<set name="EventItem" val="9142"/>
+				<set name="EventItemReq" val="50"/>
+			</ai>
+		</npc>
+	</npcmaker>
+	<!--	-->
+	<territory name="schuttgart_npc2213_zc02" minZ="-1356" maxZ="-1036">
+		<node x="88640" y="-142840"/>
+		<node x="88840" y="-142840"/>
+		<node x="88840" y="-142640"/>
+		<node x="88640" y="-142640"/>
+	</territory>
+	<npcmaker name="schuttgart_npc2213_zc02" territory="schuttgart_npc2213_zc02" event="zaken_curse" maximumNpcs="1">
+		<ai type="default_maker"/>
+		<npc id="32131" pos="88740;-142740;-1336;16384" total="1" respawn="1min">
+			<ai>
+				<set name="EventItem" val="9142"/>
+				<set name="EventItemReq" val="50"/>
+			</ai>
+		</npc>
+	</npcmaker>
+	<!--	-->
+	<territory name="schuttgart_npc2213_zc03" minZ="-1556" maxZ="-1236">
+		<node x="85210" y="-141460"/>
+		<node x="85410" y="-141460"/>
+		<node x="85410" y="-141260"/>
+		<node x="85210" y="-141260"/>
+	</territory>
+	<npcmaker name="schuttgart_npc2213_zc03" territory="schuttgart_npc2213_zc03" event="zaken_curse" maximumNpcs="1">
+		<ai type="default_maker"/>
+		<npc id="32131" pos="85310;-141360;-1536;32768" total="1" respawn="1min">
+			<ai>
+				<set name="EventItem" val="9142"/>
+				<set name="EventItemReq" val="50"/>
+			</ai>
+		</npc>
+	</npcmaker>
+	<!--	-->
+	<territory name="event_zaken_curse_gludin1" minZ="-3100" maxZ="-2900">
+		<node x="-87270" y="149945"/>
+		<node x="-88665" y="147920"/>
+		<node x="-88455" y="147115"/>
+		<node x="-86180" y="148080"/>
+		<node x="-85235" y="149175"/>
+	</territory>
+	<npcmaker name="event_zaken_curse_gludin1" territory="event_zaken_curse_gludin1" event="zaken_curse" maximumNpcs="30">
+		<ai type="default_maker"/>
+		<npc id="13031" total="5" respawn="45sec"/>
+		<npc id="13032" total="5" respawn="45sec"/>
+		<npc id="13033" total="5" respawn="45sec"/>
+	</npcmaker>
+	<!--	-->
+	<territory name="event_zaken_curse_gludin2" minZ="-3200" maxZ="-2900">
+		<node x="-87200" y="150185"/>
+		<node x="-87235" y="151780"/>
+		<node x="-85300" y="152110"/>
+		<node x="-85300" y="149690"/>
+	</territory>
+	<npcmaker name="event_zaken_curse_gludin2" territory="event_zaken_curse_gludin2" event="zaken_curse" maximumNpcs="30">
+		<ai type="default_maker"/>
+		<npc id="13031" total="5" respawn="45sec"/>
+		<npc id="13032" total="5" respawn="45sec"/>
+		<npc id="13033" total="5" respawn="45sec"/>
+	</npcmaker>
+	<!--	-->
+	<territory name="event_zaken_curse_gludio1" minZ="-3200" maxZ="-3000">
+		<node x="-16700" y="122970"/>
+		<node x="-18800" y="123280"/>
+		<node x="-17740" y="121465"/>
+		<node x="-15550" y="121250"/>
+		<node x="-15720" y="122315"/>
+	</territory>
+	<npcmaker name="event_zaken_curse_gludio1" territory="event_zaken_curse_gludio1" event="zaken_curse" maximumNpcs="30">
+		<ai type="default_maker"/>
+		<npc id="13031" total="5" respawn="45sec"/>
+		<npc id="13032" total="5" respawn="45sec"/>
+		<npc id="13033" total="5" respawn="45sec"/>
+	</npcmaker>
+	<!--	-->
+	<territory name="event_zaken_curse_gludio2" minZ="-3800" maxZ="-3200">
+		<node x="-19710" y="126030"/>
+		<node x="-20205" y="127575"/>
+		<node x="-21775" y="128700"/>
+		<node x="-23100" y="128860"/>
+		<node x="-23140" y="126600"/>
+	</territory>
+	<npcmaker name="event_zaken_curse_gludio2" territory="event_zaken_curse_gludio2" event="zaken_curse" maximumNpcs="30">
+		<ai type="default_maker"/>
+		<npc id="13031" total="5" respawn="45sec"/>
+		<npc id="13032" total="5" respawn="45sec"/>
+		<npc id="13033" total="5" respawn="45sec"/>
+	</npcmaker>
+	<!--	-->
+	<territory name="event_zaken_curse_dion1" minZ="-3400" maxZ="-3100">
+		<node x="16780" y="148100"/>
+		<node x="17150" y="150260"/>
+		<node x="15915" y="150850"/>
+		<node x="14770" y="150150"/>
+		<node x="14500" y="149500"/>
+		<node x="15425" y="147947"/>
+	</territory>
+	<npcmaker name="event_zaken_curse_dion1" territory="event_zaken_curse_dion1" event="zaken_curse" maximumNpcs="30">
+		<ai type="default_maker"/>
+		<npc id="13031" total="5" respawn="45sec"/>
+		<npc id="13032" total="5" respawn="45sec"/>
+		<npc id="13033" total="5" respawn="45sec"/>
+	</npcmaker>
+	<!--	-->
+	<territory name="event_zaken_curse_dion2" minZ="-3400" maxZ="-3000">
+		<node x="18715" y="142300"/>
+		<node x="17980" y="142595"/>
+		<node x="17520" y="141655"/>
+		<node x="17650" y="140630"/>
+		<node x="18590" y="140760"/>
+	</territory>
+	<npcmaker name="event_zaken_curse_dion2" territory="event_zaken_curse_dion2" event="zaken_curse" maximumNpcs="30">
+		<ai type="default_maker"/>
+		<npc id="13031" total="3" respawn="45sec"/>
+		<npc id="13032" total="3" respawn="45sec"/>
+		<npc id="13033" total="3" respawn="45sec"/>
+	</npcmaker>
+	<!--	-->
+	<territory name="event_zaken_curse_giran1" minZ="-3550" maxZ="-3400">
+		<node x="84620" y="141135"/>
+		<node x="84455" y="139990"/>
+		<node x="85430" y="139875"/>
+		<node x="87053" y="140250"/>
+		<node x="87460" y="142230"/>
+	</territory>
+	<npcmaker name="event_zaken_curse_giran1" territory="event_zaken_curse_giran1" event="zaken_curse" maximumNpcs="30">
+		<ai type="default_maker"/>
+		<npc id="13031" total="5" respawn="45sec"/>
+		<npc id="13032" total="5" respawn="45sec"/>
+		<npc id="13033" total="5" respawn="45sec"/>
+	</npcmaker>
+	<!--	-->
+	<territory name="event_zaken_curse_giran2" minZ="-3600" maxZ="-3000">
+		<node x="79715" y="156580"/>
+		<node x="78850" y="159020"/>
+		<node x="76885" y="159570"/>
+		<node x="76030" y="157660"/>
+		<node x="77810" y="155810"/>
+	</territory>
+	<npcmaker name="event_zaken_curse_giran2" territory="event_zaken_curse_giran2" event="zaken_curse" maximumNpcs="30">
+		<ai type="default_maker"/>
+		<npc id="13031" total="5" respawn="45sec"/>
+		<npc id="13032" total="5" respawn="45sec"/>
+		<npc id="13033" total="5" respawn="45sec"/>
+	</npcmaker>
+	<!--	-->
+	<territory name="event_zaken_curse_heine1" minZ="-3650" maxZ="-3200">
+		<node x="100390" y="217545"/>
+		<node x="102000" y="217550"/>
+		<node x="102510" y="218755"/>
+		<node x="101670" y="219485"/>
+		<node x="100510" y="218935"/>
+		<node x="100180" y="218230"/>
+	</territory>
+	<npcmaker name="event_zaken_curse_heine1" territory="event_zaken_curse_heine1" event="zaken_curse" maximumNpcs="30">
+		<ai type="default_maker"/>
+		<npc id="13031" total="3" respawn="45sec"/>
+		<npc id="13032" total="3" respawn="45sec"/>
+		<npc id="13033" total="3" respawn="45sec"/>
+	</npcmaker>
+	<!--	-->
+	<territory name="event_zaken_curse_heine2" minZ="-3700" maxZ="-3200">
+		<node x="121610" y="216465"/>
+		<node x="119710" y="214585"/>
+		<node x="121730" y="212835"/>
+		<node x="123915" y="213395"/>
+		<node x="123435" y="215555"/>
+	</territory>
+	<npcmaker name="event_zaken_curse_heine2" territory="event_zaken_curse_heine2" event="zaken_curse" maximumNpcs="30">
+		<ai type="default_maker"/>
+		<npc id="13031" total="5" respawn="45sec"/>
+		<npc id="13032" total="5" respawn="45sec"/>
+		<npc id="13033" total="5" respawn="45sec"/>
+	</npcmaker>
+	<!--	-->
+	<territory name="event_zaken_curse_oren1" minZ="-3300" maxZ="-3100">
+		<node x="77360" y="51680"/>
+		<node x="76290" y="50075"/>
+		<node x="76340" y="48710"/>
+		<node x="76805" y="47870"/>
+		<node x="77720" y="48625"/>
+		<node x="78605" y="49645"/>
+	</territory>
+	<npcmaker name="event_zaken_curse_oren1" territory="event_zaken_curse_oren1" event="zaken_curse" maximumNpcs="30">
+		<ai type="default_maker"/>
+		<npc id="13031" total="5" respawn="45sec"/>
+		<npc id="13032" total="5" respawn="45sec"/>
+		<npc id="13033" total="5" respawn="45sec"/>
+	</npcmaker>
+	<!--	-->
+	<territory name="event_zaken_curse_oren2" minZ="-3000" maxZ="-2700">
+		<node x="77870" y="58420"/>
+		<node x="76600" y="57500"/>
+		<node x="77700" y="55230"/>
+		<node x="78420" y="55330"/>
+	</territory>
+	<npcmaker name="event_zaken_curse_oren2" territory="event_zaken_curse_oren2" event="zaken_curse" maximumNpcs="30">
+		<ai type="default_maker"/>
+		<npc id="13031" total="4" respawn="45sec"/>
+		<npc id="13032" total="4" respawn="45sec"/>
+		<npc id="13033" total="4" respawn="45sec"/>
+	</npcmaker>
+	<!--	-->
+	<territory name="event_zaken_curse_huntervillage1" minZ="-2800" maxZ="-2600">
+		<node x="116315" y="76730"/>
+		<node x="116230" y="75790"/>
+		<node x="116800" y="75595"/>
+		<node x="117125" y="76000"/>
+		<node x="116940" y="76640"/>
+	</territory>
+	<npcmaker name="event_zaken_curse_huntervillage1" territory="event_zaken_curse_huntervillage1" event="zaken_curse" maximumNpcs="30">
+		<ai type="default_maker"/>
+		<npc id="13031" total="3" respawn="45sec"/>
+		<npc id="13032" total="3" respawn="45sec"/>
+		<npc id="13033" total="3" respawn="45sec"/>
+	</npcmaker>
+	<!--	-->
+	<territory name="event_zaken_curse_aden1" minZ="-2200" maxZ="-1900">
+		<node x="153305" y="23700"/>
+		<node x="152045" y="24270"/>
+		<node x="151560" y="20900"/>
+		<node x="152940" y="20950"/>
+		<node x="153410" y="23225"/>
+	</territory>
+	<npcmaker name="event_zaken_curse_aden1" territory="event_zaken_curse_aden1" event="zaken_curse" maximumNpcs="30">
+		<ai type="default_maker"/>
+		<npc id="13031" total="8" respawn="45sec"/>
+		<npc id="13032" total="8" respawn="45sec"/>
+		<npc id="13033" total="8" respawn="45sec"/>
+	</npcmaker>
+	<!--	-->
+	<territory name="event_zaken_curse_aden2" minZ="-2500" maxZ="-2300">
+		<node x="142760" y="27445"/>
+		<node x="143180" y="30290"/>
+		<node x="142720" y="32370"/>
+		<node x="141850" y="31630"/>
+		<node x="140200" y="27315"/>
+	</territory>
+	<npcmaker name="event_zaken_curse_aden2" territory="event_zaken_curse_aden2" event="zaken_curse" maximumNpcs="30">
+		<ai type="default_maker"/>
+		<npc id="13031" total="8" respawn="45sec"/>
+		<npc id="13032" total="8" respawn="45sec"/>
+		<npc id="13033" total="8" respawn="45sec"/>
+	</npcmaker>
+	<!--	-->
+	<territory name="event_zaken_curse_goddard1" minZ="-3500" maxZ="-3400">
+		<node x="143550" y="-57970"/>
+		<node x="143300" y="-56820"/>
+		<node x="142670" y="-56975"/>
+		<node x="143015" y="-58445"/>
+	</territory>
+	<npcmaker name="event_zaken_curse_goddard1" territory="event_zaken_curse_goddard1" event="zaken_curse" maximumNpcs="30">
+		<ai type="default_maker"/>
+		<npc id="13031" total="4" respawn="45sec"/>
+		<npc id="13032" total="4" respawn="45sec"/>
+		<npc id="13033" total="4" respawn="45sec"/>
+	</npcmaker>
+	<!--	-->
+	<territory name="event_zaken_curse_goddard2" minZ="-3500" maxZ="-3200">
+		<node x="144230" y="-58770"/>
+		<node x="143740" y="-59330"/>
+		<node x="145770" y="-60805"/>
+		<node x="146870" y="-61315"/>
+		<node x="147170" y="-60600"/>
+		<node x="145850" y="-59650"/>
+	</territory>
+	<npcmaker name="event_zaken_curse_goddard2" territory="event_zaken_curse_goddard2" event="zaken_curse" maximumNpcs="30">
+		<ai type="default_maker"/>
+		<npc id="13031" total="4" respawn="45sec"/>
+		<npc id="13032" total="4" respawn="45sec"/>
+		<npc id="13033" total="4" respawn="45sec"/>
+	</npcmaker>
+	<!--	-->
+	<territory name="event_zaken_curse_schuttgart1" minZ="-2400" maxZ="-2100">
+		<node x="92130" y="-139900"/>
+		<node x="91635" y="-141105"/>
+		<node x="92440" y="-141335"/>
+		<node x="93160" y="-140135"/>
+		<node x="92715" y="-139280"/>
+	</territory>
+	<npcmaker name="event_zaken_curse_schuttgart1" territory="event_zaken_curse_schuttgart1" event="zaken_curse" maximumNpcs="30">
+		<ai type="default_maker"/>
+		<npc id="13031" total="4" respawn="45sec"/>
+		<npc id="13032" total="4" respawn="45sec"/>
+		<npc id="13033" total="4" respawn="45sec"/>
+	</npcmaker>
+	<!--	-->
+	<territory name="event_zaken_curse_schuttgart2" minZ="-2450" maxZ="-2200">
+		<node x="90060" y="-137920"/>
+		<node x="91550" y="-139190"/>
+		<node x="92215" y="-138435"/>
+		<node x="90255" y="-137505"/>
+	</territory>
+	<npcmaker name="event_zaken_curse_schuttgart2" territory="event_zaken_curse_schuttgart2" event="zaken_curse" maximumNpcs="30">
+		<ai type="default_maker"/>
+		<npc id="13031" total="4" respawn="45sec"/>
+		<npc id="13032" total="4" respawn="45sec"/>
+		<npc id="13033" total="4" respawn="45sec"/>
+	</npcmaker>
+	
+	<territory name="event_zaken_curse_rune1" minZ="-1000" maxZ="0">
+		<node x="43890" y="-51140"/>
+		<node x="44680" y="-50725"/>
+		<node x="45430" y="-50235"/>
+		<node x="44305" y="-49565"/>
+		<node x="43460" y="-50330"/>
+	</territory>
+	<npcmaker name="event_zaken_curse_rune1" territory="event_zaken_curse_rune1" event="zaken_curse" maximumNpcs="30">
+		<ai type="default_maker"/>
+		<npc id="13031" total="6" respawn="45sec"/>
+		<npc id="13032" total="6" respawn="45sec"/>
+		<npc id="13033" total="6" respawn="45sec"/>
+	</npcmaker>
+</list>

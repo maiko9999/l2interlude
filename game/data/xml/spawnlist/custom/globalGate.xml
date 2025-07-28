@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="utf-8"?>
+<list>
+	<!--  -->
+	<territory name="gludio06_npc1722_eg01" minZ="-3088" maxZ="-2888">
+		<node x="-80804" y="149724" />
+		<node x="-80604" y="149724" />
+		<node x="-80604" y="149924" />
+		<node x="-80804" y="149924" />
+	</territory>
+	<npcmaker name="gludio06_npc1722_eg01" territory="gludio06_npc1722_eg01" event="global_gate" maximumNpcs="1">
+		<ai type="default_maker"/>
+		<npc id="50010" pos="-80629;149917;-3040;23000" total="1" respawn="1min"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="gludio25_npc1725_eg01" minZ="-3804" maxZ="-3604">
+		<node x="-84132" y="244444" />
+		<node x="-83932" y="244444" />
+		<node x="-83932" y="244644" />
+		<node x="-84132" y="244644" />
+	</territory>
+	<npcmaker name="gludio25_npc1725_eg01" territory="gludio25_npc1725_eg01" event="global_gate" maximumNpcs="1">
+		<ai type="default_maker"/>
+		<npc id="50010" pos="-84072;244573;-3728;41000" total="1" respawn="1min"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="lyonn03_npc1814_eg01" minZ="-292" maxZ="-92">
+		<node x="-45364" y="-112644" />
+		<node x="-45164" y="-112644" />
+		<node x="-45164" y="-112444" />
+		<node x="-45364" y="-112444" />
+	</territory>
+	<npcmaker name="lyonn03_npc1814_eg01" territory="lyonn03_npc1814_eg01" event="global_gate" maximumNpcs="1">
+		<ai type="default_maker"/>
+		<npc id="50010" pos="-45258;-112662;-240;0" total="1" respawn="1min"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="gludio08_npc1921_eg01" minZ="-3156" maxZ="-2956">
+		<node x="-12932" y="122748" />
+		<node x="-12732" y="122748" />
+		<node x="-12732" y="122948" />
+		<node x="-12932" y="122948" />
+	</territory>
+	<npcmaker name="gludio08_npc1921_eg01" territory="gludio08_npc1921_eg01" event="global_gate" maximumNpcs="1">
+		<ai type="default_maker"/>
+		<npc id="50010" pos="-12917;122814;-3112;48000" total="1" respawn="1min"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="oren09_npc2018_eg01" minZ="-4628" maxZ="-4428">
+		<node x="9580" y="15372" />
+		<node x="9780" y="15372" />
+		<node x="9780" y="15572" />
+		<node x="9580" y="15572" />
+	</territory>
+	<npcmaker name="oren09_npc2018_eg01" territory="oren09_npc2018_eg01" event="global_gate" maximumNpcs="1">
+		<ai type="default_maker"/>
+		<npc id="50010" pos="9573;15686;-4568;6000" total="1" respawn="1min"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="dion09_npc2022_eg01" minZ="-2776" maxZ="-2576">
+		<node x="15516" y="142812" />
+		<node x="15716" y="142812" />
+		<node x="15716" y="143012" />
+		<node x="15516" y="143012" />
+	</territory>
+	<npcmaker name="dion09_npc2022_eg01" territory="dion09_npc2022_eg01" event="global_gate" maximumNpcs="1">
+		<ai type="default_maker"/>
+		<npc id="50010" pos="15578;142885;-2696;16000" total="1" respawn="1min"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="rune02_npc2116_eg01" minZ="-856" maxZ="-656">
+		<node x="43596" y="-47796" />
+		<node x="43908" y="-47748" />
+		<node x="43908" y="-47548" />
+		<node x="43576" y="-47600" />
+	</territory>
+	<npcmaker name="rune02_npc2116_eg01" territory="rune02_npc2116_eg01" event="global_gate" maximumNpcs="1">
+		<ai type="default_maker"/>
+		<npc id="50010" pos="43774;-47671;-792;50000" total="1" respawn="1min"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="oren04_npc2119_eg01" minZ="-3024" maxZ="-2824">
+		<node x="46812" y="51420" />
+		<node x="47012" y="51420" />
+		<node x="47012" y="51620" />
+		<node x="46812" y="51620" />
+	</territory>
+	<npcmaker name="oren04_npc2119_eg01" territory="oren04_npc2119_eg01" event="global_gate" maximumNpcs="1">
+		<ai type="default_maker"/>
+		<npc id="50010" pos="46893;51512;-2976;47000" total="1" respawn="1min"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="schuttgart20_npc2213_eg01" minZ="-1340" maxZ="-1140">
+		<node x="86956" y="-143556" />
+		<node x="87156" y="-143556" />
+		<node x="87156" y="-143356" />
+		<node x="86956" y="-143356" />
+	</territory>
+	<npcmaker name="schuttgart20_eg01m1" territory="schuttgart20_npc2213_eg01" maximumNpcs="1">
+		<ai type="event_maker">
+				<set name="EventName" val="global_gate"/>
+		</ai>
+		<npc id="50010" pos="87020;-143471;-1288;16500" total="1" respawn="1min"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="oren17_npc2219_eg01" minZ="-1536" maxZ="-1336">
+		<node x="82892" y="53068" />
+		<node x="83092" y="53068" />
+		<node x="83092" y="53268" />
+		<node x="82892" y="53268" />
+	</territory>
+	<npcmaker name="oren17_npc2219_eg01" territory="oren17_npc2219_eg01" event="global_gate" maximumNpcs="1">
+		<ai type="default_maker"/>
+		<npc id="50010" pos="82983;53118;-1488;31000" total="1" respawn="1min"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="giran11_npc2222_eg01" minZ="-3484" maxZ="-3284">
+		<node x="83356" y="147804" />
+		<node x="83556" y="147804" />
+		<node x="83556" y="148004" />
+		<node x="83356" y="148004" />
+	</territory>
+	<npcmaker name="giran11_npc2222_eg01" territory="giran11_npc2222_eg01" event="global_gate" maximumNpcs="1">
+		<ai type="default_maker"/>
+		<npc id="50010" pos="83466;147899;-3400;16700" total="1" respawn="1min"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="schuttgart03_npc2312_eg01" minZ="-944" maxZ="-744">
+		<node x="114972" y="-178340" />
+		<node x="115172" y="-178340" />
+		<node x="115172" y="-178140" />
+		<node x="114972" y="-178140" />
+	</territory>
+	<npcmaker name="schuttgart03_npc2312_eg01" territory="schuttgart03_npc2312_eg01" event="global_gate" maximumNpcs="1">
+		<ai type="default_maker"/>
+		<npc id="50010" pos="115084;-178333;-912;1000" total="1" respawn="1min"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="aden14_npc2320_eg01" minZ="-2760" maxZ="-2560">
+		<node x="117020" y="76892" />
+		<node x="117220" y="76892" />
+		<node x="117220" y="77092" />
+		<node x="117020" y="77092" />
+	</territory>
+	<npcmaker name="aden14_npc2320_eg01" territory="aden14_npc2320_eg01" event="global_gate" maximumNpcs="1">
+		<ai type="default_maker"/>
+		<npc id="50010" pos="117074;77082;-2688;34000" total="1" respawn="1min"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="innadril09_npc2324_eg01" minZ="-3636" maxZ="-3436">
+		<node x="111244" y="219324" />
+		<node x="111444" y="219324" />
+		<node x="111444" y="219524" />
+		<node x="111244" y="219524" />
+	</territory>
+	<npcmaker name="innadril09_npc2324_eg01" territory="innadril09_npc2324_eg01" event="global_gate" maximumNpcs="1">
+		<ai type="default_maker"/>
+		<npc id="50010" pos="111360;219410;-3544;48000" total="1" respawn="1min"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="godard02_npc2416_eg01" minZ="-2780" maxZ="-2580">
+		<node x="147900" y="-55284" />
+		<node x="148100" y="-55284" />
+		<node x="148100" y="-55084" />
+		<node x="147900" y="-55084" />
+	</territory>
+	<npcmaker name="godard02_npc2416_eg01" territory="godard02_npc2416_eg01" event="global_gate" maximumNpcs="1">
+		<ai type="default_maker"/>
+		<npc id="50010" pos="148031;-55228;-2728;48000" total="1" respawn="1min"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="aden13_npc2418_eg01" minZ="-2048" maxZ="-1848">
+		<node x="146652" y="25724" />
+		<node x="146852" y="25724" />
+		<node x="146852" y="25924" />
+		<node x="146652" y="25924" />
+	</territory>
+	<npcmaker name="aden13_npc2418_eg01" territory="aden13_npc2418_eg01" event="global_gate" maximumNpcs="1">
+		<ai type="default_maker"/>
+		<npc id="50010" pos="146732;25848;-2008;0" total="1" respawn="1min"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="gatekeeperglobal_268474290" minZ="-3504" maxZ="-3488">
+		<node x="17796" y="170344" />
+		<node x="17696" y="170344" />
+		<node x="17696" y="170244" />
+		<node x="17796" y="170244" />
+	</territory>
+	<npcmaker name="gatekeeperglobal_2684742901" territory="gatekeeperglobal_268474290" maximumNpcs="1">
+		<ai type="default_maker"/>
+		<npc id="50010" pos="17746;170294;-3504;1040" total="1" respawn="1min" />
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="gatekeeperglobal_268474337" minZ="-3672" maxZ="-3656">
+		<node x="85245" y="16195" />
+		<node x="85145" y="16195" />
+		<node x="85145" y="16095" />
+		<node x="85245" y="16095" />
+	</territory>
+	<npcmaker name="gatekeeperglobal_2684743371" territory="gatekeeperglobal_268474337" maximumNpcs="1">
+		<ai type="default_maker"/>
+		<npc id="50010" pos="85195;16145;-3672;59277" total="1" respawn="1min" />
+	</npcmaker>
+</list>

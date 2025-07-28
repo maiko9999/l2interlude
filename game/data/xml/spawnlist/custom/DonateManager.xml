@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="utf-8"?>
+<list>
+	<!--	-->
+	<territory name="donate_dwarven_village_01" minZ="-900" maxZ="-680">
+		<node x="114877" y="-178482"/>
+		<node x="115277" y="-178482"/>
+		<node x="115277" y="-178082"/>
+		<node x="114877" y="-178082"/>
+	</territory>
+	<npcmaker name="donate_dwarven_village_01" territory="donate_dwarven_village_01" event="donate" maximumNpcs="1">
+		<ai type="default_maker"/>
+		<npc id="50003" pos="115090;-178099;-880;0" total="1" respawn="1min"/>
+	</npcmaker>
+	
+	<!--	-->
+	<territory name="donate_gludin_01" minZ="-3060" maxZ="-2840">
+		<node x="-80871" y="149673"/>
+		<node x="-80471" y="149673"/>
+		<node x="-80471" y="150073"/>
+		<node x="-80871" y="150073"/>
+	</territory>
+	<npcmaker name="donate_gludin_01" territory="donate_gludin_01" event="donate" maximumNpcs="1">
+		<ai type="default_maker"/>
+		<npc id="50003" pos="-80825;149714;-3040;24576" total="1" respawn="1min"/>
+	</npcmaker>
+	
+	<!--	-->
+	<territory name="donate_elven_village_01" minZ="-2996" maxZ="-2776">
+		<node x="46651" y="51306"/>
+		<node x="47051" y="51306"/>
+		<node x="47051" y="51706"/>
+		<node x="46651" y="51706"/>
+	</territory>
+	<npcmaker name="donate_elven_village_01" territory="donate_elven_village_01" event="donate" maximumNpcs="1">
+		<ai type="default_maker"/>
+		<npc id="50003" pos="46999;51485;-2976;49152" total="1" respawn="1min"/>
+	</npcmaker>
+	
+	<!--	-->
+	<territory name="donate_human_village_01" minZ="-3748" maxZ="-3528">
+		<node x="-84237" y="244334"/>
+		<node x="-83837" y="244334"/>
+		<node x="-83837" y="244734"/>
+		<node x="-84237" y="244734"/>
+	</territory>
+	<npcmaker name="donate_human_village_01" territory="donate_human_village_01" event="donate" maximumNpcs="1">
+		<ai type="default_maker"/>
+		<npc id="50003" pos="-84179;244666;-3728;40960" total="1" respawn="1min"/>
+	</npcmaker>
+	
+	<!--	-->
+	<territory name="donate_dark_elven_village_01" minZ="-4596" maxZ="-4376">
+		<node x="9527" y="15225"/>
+		<node x="9927" y="15225"/>
+		<node x="9927" y="15625"/>
+		<node x="9527" y="15625"/>
+	</territory>
+	<npcmaker name="donate_dark_elven_village_01" territory="donate_dark_elven_village_01" event="donate" maximumNpcs="1">
+		<ai type="default_maker"/>
+		<npc id="50003" pos="9628;15609;-4568;8192" total="1" respawn="1min"/>
+	</npcmaker>
+	
+	<!--	-->
+	<territory name="donate_orc_village_01" minZ="-260" maxZ="-40">
+		<node x="-45460" y="-112812"/>
+		<node x="-45060" y="-112812"/>
+		<node x="-45060" y="-112412"/>
+		<node x="-45460" y="-112412"/>
+	</territory>
+	<npcmaker name="donate_orc_village_01" territory="donate_orc_village_01" event="donate" maximumNpcs="1">
+		<ai type="default_maker"/>
+		<npc id="50003" pos="-45253;-112421;-240;0" total="1" respawn="1min"/>
+	</npcmaker>
+	
+	<!--	-->
+	<territory name="donate_gludio_01" minZ="-3132" maxZ="-2912">
+		<node x="-13061" y="122613"/>
+		<node x="-12661" y="122613"/>
+		<node x="-12661" y="123013"/>
+		<node x="-13061" y="123013"/>
+	</territory>
+	<npcmaker name="donate_gludio_01" territory="donate_gludio_01" event="donate" maximumNpcs="1">
+		<ai type="default_maker"/>
+		<npc id="50003" pos="-12637;122816;-3112;49152" total="1" respawn="1min"/>
+	</npcmaker>
+	
+	<!--	-->
+	<territory name="donate_giran_01" minZ="-3420" maxZ="-3200">
+		<node x="83330" y="147692"/>
+		<node x="83730" y="147692"/>
+		<node x="83730" y="148092"/>
+		<node x="83330" y="148092"/>
+	</territory>
+	<npcmaker name="donate_giran_01" territory="donate_giran_01" event="donate" maximumNpcs="1">
+		<ai type="default_maker"/>
+		<npc id="50003" pos="83683;147944;-3400;32500" total="1" respawn="1min"/>
+	</npcmaker>
+	
+	<!--	-->
+	<territory name="donate_oren_01" minZ="-1508" maxZ="-1288">
+		<node x="82764" y="52861"/>
+		<node x="83164" y="52861"/>
+		<node x="83164" y="53261"/>
+		<node x="82764" y="53261"/>
+	</territory>
+	<npcmaker name="donate_oren_01" territory="donate_oren_01" event="donate" maximumNpcs="1">
+		<ai type="default_maker"/>
+		<npc id="50003" pos="83018;53281;-1488;32768" total="1" respawn="1min"/>
+	</npcmaker>
+	
+	<!--	-->
+	<territory name="donate_hunter_village_01" minZ="-2724" maxZ="-2504">
+		<node x="116889" y="76829"/>
+		<node x="117289" y="76829"/>
+		<node x="117289" y="77229"/>
+		<node x="116889" y="77229"/>
+	</territory>
+	<npcmaker name="donate_hunter_village_01" territory="donate_hunter_village_01" event="donate" maximumNpcs="1">
+		<ai type="default_maker"/>
+		<npc id="50003" pos="117157;76818;-2696;32768" total="1" respawn="1min"/>
+	</npcmaker>
+	
+	<!--	-->
+	<territory name="donate_floran_01" minZ="-3524" maxZ="-3304">
+		<node x="17447" y="169945"/>
+		<node x="17847" y="169945"/>
+		<node x="17847" y="170345"/>
+		<node x="17447" y="170345"/>
+	</territory>
+	<npcmaker name="donate_floran_01" territory="donate_floran_01" event="donate" maximumNpcs="1">
+		<ai type="default_maker"/>
+		<npc id="50003" pos="17555;170347;-3504;0" total="1" respawn="1min"/>
+	</npcmaker>
+	
+	<!--	-->
+	<territory name="donate_aden_01" minZ="-2028" maxZ="-1808">
+		<node x="146533" y="25705"/>
+		<node x="146933" y="25705"/>
+		<node x="146933" y="26105"/>
+		<node x="146533" y="26105"/>
+	</territory>
+	<npcmaker name="donate_aden_01" territory="donate_aden_01" event="donate" maximumNpcs="1">
+		<ai type="default_maker"/>
+		<npc id="50003" pos="147022;25604;-2008;6000" total="1" respawn="1min"/>
+	</npcmaker>
+	
+	<!--	-->
+	<territory name="donate_heine_01" minZ="-3564" maxZ="-3344">
+		<node x="111125" y="219199"/>
+		<node x="111525" y="219199"/>
+		<node x="111525" y="219599"/>
+		<node x="111125" y="219599"/>
+	</territory>
+	<npcmaker name="donate_heine_01" territory="donate_heine_01" event="donate" maximumNpcs="1">
+		<ai type="default_maker"/>
+		<npc id="50003" pos="111426;219059;-3544;49152" total="1" respawn="1min"/>
+	</npcmaker>
+	
+	<!--	-->
+	<territory name="donate_dion_01" minZ="-2716" maxZ="-2496">
+		<node x="15553" y="142676"/>
+		<node x="15953" y="142676"/>
+		<node x="15953" y="143076"/>
+		<node x="15553" y="143076"/>
+	</territory>
+	<npcmaker name="donate_dion_01" territory="donate_dion_01" event="donate" maximumNpcs="1">
+		<ai type="default_maker"/>
+		<npc id="50003" pos="15858;142868;-2696;16384" total="1" respawn="1min"/>
+	</npcmaker>
+	
+	<!--	-->
+	<territory name="donate_ivory_tower_01" minZ="-3692" maxZ="-3472">
+		<node x="85086" y="15983"/>
+		<node x="85486" y="15983"/>
+		<node x="85486" y="16383"/>
+		<node x="85086" y="16383"/>
+	</territory>
+	<npcmaker name="donate_ivory_tower_01" territory="donate_ivory_tower_01" event="donate" maximumNpcs="1">
+		<ai type="default_maker"/>
+		<npc id="50003" pos="85406;16208;-3672;49152" total="1" respawn="1min"/>
+	</npcmaker>
+	
+	<!--	-->
+	<territory name="donate_goddard_01" minZ="-2748" maxZ="-2528">
+		<node x="147650" y="-55413"/>
+		<node x="148050" y="-55413"/>
+		<node x="148050" y="-55013"/>
+		<node x="147650" y="-55013"/>
+	</territory>
+	<npcmaker name="donate_goddard_01" territory="donate_goddard_01" event="donate" maximumNpcs="1">
+		<ai type="default_maker"/>
+		<npc id="50003" pos="148113;-55500;-2728;49152" total="1" respawn="1min"/>
+	</npcmaker>
+	
+	<!--	-->
+	<territory name="donate_rune_01" minZ="-812" maxZ="-592">
+		<node x="43524" y="-47883"/>
+		<node x="43924" y="-47883"/>
+		<node x="43924" y="-47483"/>
+		<node x="43524" y="-47483"/>
+	</territory>
+	<npcmaker name="donate_rune_01" territory="donate_rune_01" event="donate" maximumNpcs="1">
+		<ai type="default_maker"/>
+		<npc id="50003" pos="43905;-47685;-792;49152" total="1" respawn="1min"/>
+	</npcmaker>
+		<!--	-->
+	<territory name="donate_schutt_01" minZ="-1366" maxZ="-1000">
+		<node x="86465" y="-14527"/>
+		<node x="86688" y="-142517"/>
+		<node x="87932" y="-142448"/>
+		<node x="88299" y="-143460"/>
+	</territory>
+	<npcmaker name="donate_schutt_01" territory="donate_schutt_01" event="donate" maximumNpcs="1">
+		<ai type="default_maker"/>
+		<npc id="50003" pos="86966;-143214;-1288;16000" total="1" respawn="1min"/>
+	</npcmaker>
+</list>
